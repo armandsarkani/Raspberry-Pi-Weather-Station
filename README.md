@@ -12,4 +12,9 @@ The detailed hardware setup is shown in the report PDF. Requires access to Raspb
 
 <img src="https://github.com/armandsarkani/Raspberry-Pi-Weather-Station/blob/master/Images/IMG_1860.jpeg" width="400" height="600" alt="Hardware Setup" class="center"/>
 
-
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
