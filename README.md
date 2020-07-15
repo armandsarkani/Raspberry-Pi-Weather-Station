@@ -9,5 +9,7 @@ period, total statistics are provided.
 ## Hardware Setup 
 
 The detailed hardware setup is shown in the report PDF. Requires access to Raspberry Pi GPIO pins as well as open-source Adafruit and Freenove libraries (included in Code directory). 
-![Setup](https://github.com/armandsarkani/Raspberry-Pi-Weather-Station/blob/master/Images/IMG_1860.jpeg | width=640)
+
+<img src="https://github.com/armandsarkani/Raspberry-Pi-Weather-Station/blob/master/Images/IMG_1860.jpeg" width="200" height="200" />
+
 
